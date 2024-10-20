@@ -1,0 +1,33 @@
+
+
+.not-found {
+    text-align: center;
+    padding: 50px;
+    background-color: #f8d7da; /* Cor de fundo suave para erro */
+    color: #721c24; /* Cor do texto para destacar a mensagem de erro */
+    border: 1px solid #f5c6cb; /* Borda sutil para destacar a área */
+    border-radius: 5px; /* Cantos arredondados */
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidade */
+  }
+  
+  h1 {
+    font-size: 2.5rem; /* Aumenta o tamanho do título */
+    margin-bottom: 20px; /* Espaçamento inferior */
+  }
+  
+  p {
+    font-size: 1.2rem; /* Aumenta o tamanho do texto */
+    margin-bottom: 20px; /* Espaçamento inferior */
+  }
+  
+  a {
+    text-decoration: none; /* Remove o sublinhado do link */
+    color: #007bff; /* Cor do link */
+    font-weight: bold; /* Deixa o link em negrito */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Sublinha o link ao passar o mouse */
+  }
+  
